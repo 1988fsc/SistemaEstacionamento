@@ -12,3 +12,4 @@ C:\Users\msnbo\Desktop\Github\SistemaEstacionamento\obj\Debug\net8.0\refint\Sist
 C:\Users\msnbo\Desktop\Github\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.pdb
 C:\Users\msnbo\Desktop\Github\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.genruntimeconfig.cache
 C:\Users\msnbo\Desktop\Github\SistemaEstacionamento\obj\Debug\net8.0\ref\SistemaEstacionamento.dll
+C:\Users\msnbo\Desktop\Github\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.sourcelink.json
